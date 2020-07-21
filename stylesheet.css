@@ -1,0 +1,14 @@
+.header{
+background-color: indigo;
+height: 90px;
+}
+
+.main{
+background-color: #ffffff;
+height: 768px;
+}
+
+.footer{
+    background-color: cornflowerblue;
+    height: 120px;
+}
